@@ -1,277 +1,122 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南IPTV导视 4M1080
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 8M2160
-http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227060/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视 6M2160
-http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV1 4M1080
-http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV2 4M1080
-http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3 4M1080
-http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4 4M1080
-http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5 4M1080
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 4M1080
-http://[2409:8087:4402:20:1:1216:401:12]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6 4M1080
-http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7 4M1080
-http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8 4M1080
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9 4M1080
-http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10 4M1080
-http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226483/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11 4M1080
-http://[2409:8087:4402:20:1:1216:401:44]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12 4M1080
-http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13 4M1080
-http://[2409:8087:4400:20:1:70f:1011:1c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14 4M576
-http://[2409:8087:4400:20:1:70f:1011:1d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15 4M1080
-http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 4M1080
-http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17 4M1080
-http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226423/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226429/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视 4M1080
-http://[2409:8087:4400:20:1:70f:1011:18]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视 4M1080
-http://[2409:8087:4400:20:1:70f:1011:18]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 4M1080
-http://[2409:8087:4400:20:1:70f:1011:18]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视 4M1080
-http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226420/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 4M1080
-http://[2409:8087:4402:20:1:1216:401:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通 4M1080
-http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南金鹰纪实 4M1080
-http://[2409:8087:4401:20:1:f01:1:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",SiTV全纪实 4M1080
-http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV动漫秀场 4M1080
-http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",SiTV欢笑剧场 4M1080
-http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SiTV都市剧场 4M1080
-http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方",求索科学 8M1080
-http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录 8M1080
-http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南乡村 4M1080
-http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南公共 4M1080
-http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南新闻 4M1080
-http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南民生 4M1080
-http://[2409:8087:4400:20:1:a0f:12:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南法治 4M1080
-http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南电视剧 4M1080
-http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南移动戏曲 4M1080
-http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南”地区频道",郑州影视戏曲 576
-http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南戏曲 4M1080
-http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南移动电视 4M1080
-http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",河南都市 4M1080
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",辉县 4M1080
-http://live.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",林州 4M1080
-http://live.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",原阳 4M1080
-http://live.dxhmt.cn:9081/tv/10725-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=“河南”地区频道“,新乡公共 576
-http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南”地区频道",新乡新闻综合 576
-http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",大美河南 4M1080
-http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南地区频道",大象新闻 4M1080
-http://[2409:8087:4400:20:1:a0f:12:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南”地区频道",大象新闻 4M720
-http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 576
-http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1 576
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 576
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 576
-http://[2409:8087:4402:20:1:1216:401:42]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226418/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 576
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 576
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 576
-http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 576
-http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 576
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 576
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 576
-http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NNM家庭理财 576
-http://[2409:8087:4401:20:1:f01:1:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/index.m3u8
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",SiTV七彩戏剧 576
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",SiTV欢笑剧场 4M720
-http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",上海哈哈炫动 576
-http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",中央新影老故事 576
-http://[2409:8087:4400:20:1:a0f:12:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8
-#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道 576
-http://[2409:8087:4401:20:1:f01:1:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",北京卡酷少儿 576
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8
+央视频道,#genre#
+河南卫视 6M2160,http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+CCTV1 4M1080,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8#http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8#http://live.dxhmt.cn:9081/tv/11527-1.m3u8
+CCTV2 4M1080,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
+CCTV3 4M1080,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
+CCTV4 4M1080,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8
+CCTV5 4M1080,http://[2409:8087:4402:20:1:1216:401:12]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
+CCTV6 4M1080,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
+CCTV7 4M1080,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8
+CCTV8 4M1080,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8
+CCTV9 4M1080,http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
+CCTV10 4M1080,http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226483/index.m3u8
+CCTV11 4M1080,http://[2409:8087:4402:20:1:1216:401:44]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+CCTV12 4M1080,http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226479/index.m3u8
+CCTV13 4M1080,http://[2409:8087:4400:20:1:70f:1011:1c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+CCTV14 4M576,http://[2409:8087:4400:20:1:70f:1011:1d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8
+CCTV15 4M1080,http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
+CCTV16 4M1080,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
+CCTV17 4M1080,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 
+卫视频道,#genre#
+东南卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8
+东方卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+云南卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
+北京卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8
+吉林卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
+四川卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
+天津卫视 4M1080,http://[2409:8087:4400:20:1:70f:1011:18]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+安徽卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
+山东卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:12]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8
+广东卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+江苏卫视 4M1080,http://[2409:8087:4400:20:1:a0f:12:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226722/index.m3u8
+江西卫视 4M1080,http://[2409:8087:4400:20:1:70f:1011:18]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+河北卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+河南卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
+浙江卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
+海南卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
+深圳卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:17]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226700/index.m3u8
+湖北卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+湖南卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8
+贵州卫视 4M1080,http://[2409:8087:4400:20:1:70f:1011:18]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+辽宁卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+重庆卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
+黑龙江卫视 4M1080,http://[2409:8087:4402:20:1:1216:401:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/index.m3u8
+CGTN 576,http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+中国教育1 576,http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
+内蒙古卫视 576,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
+宁夏卫视 576,http://[2409:8087:4402:20:1:1216:401:42]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226418/index.m3u8
+山西卫视 576,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+广西卫视 576,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+新疆卫视 576,http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+甘肃卫视 576,http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
+西藏卫视 576,http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8
+陕西卫视 576,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8
+青海卫视 576,http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
+湖南金鹰卡通 4M1080,http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
+湖南金鹰纪实 4M1080,http://[2409:8087:4401:20:1:f01:1:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
+SiTV全纪实 4M1080,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
+SiTV动漫秀场 4M1080,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
+SiTV欢笑剧场 4M1080,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+SiTV都市剧场 4M1080,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",道
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",新片放映厅
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",高分影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",欢笑剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",盗墓方法论
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",CCTV6电影
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",CCTV8电视剧
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",CIBN经典剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/692446012
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",CIBN流金岁月
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/692399419
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",周润发影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",古龙作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",周星驰影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",成龙作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",张国荣影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",郭富城影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",刘德华影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",经典影视速看
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",试胆大会
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",高能烧脑时刻
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",咪咕云上电影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",咪咕暑期剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",少林剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",高清大片
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",古天乐影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",热剧联播
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",喜剧联盟
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",僵尸剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",深夜失眠剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",神探狄仁杰
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625574493
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",经典贺岁片
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",每日科幻电影
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",追剧少女
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",怀旧老片
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="影视剧场",套武侠剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
+河南地区频道,#genre#
+河南乡村 4M1080,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
+河南公共 4M1080,http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
+河南新闻 4M1080,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
+河南民生 4M1080,http://[2409:8087:4400:20:1:a0f:12:30]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
+河南法治 4M1080,http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8
+河南电视剧 4M1080,http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/index.m3u8
+河南移动戏曲 4M1080,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
+郑州影视戏曲 576,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8
+河南戏曲 4M1080,http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+河南移动电视 4M1080,http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
+河南都市 4M1080,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
+辉县 4M1080,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+林州 4M1080,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+原阳 4M1080,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+新乡公共 576,http://[2409:8087:4402:20:1:1216:401:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
+新乡新闻综合 576,http://[2409:8087:4401:20:1:f01:1:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
 
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-热播电视剧
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-票房收割机
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-收视冠军
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-经典港片
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-惊悚午夜
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-仙侠玄幻
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-军旅剧场
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-抗战剧场
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-红色剧场
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-宫廷正剧
-http://112.49.48.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-家庭剧场
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-军事观察
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-五星影院
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-戏曲影院
-http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8
+影视频道,#genre#
+道,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
+高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
+欢笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
+盗墓方法论,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
+周润发影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
+古龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
+周星驰影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+成龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
+张国荣影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
+郭富城影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
+刘德华影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
+试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
+高能烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
+咪咕云上电影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
+咪咕暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
+少林剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
+高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
+古天乐影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
+热剧联播http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
+喜剧联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
+僵尸剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
+深夜失眠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
+神探狄仁杰,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625574493
+经典贺岁片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
+每日科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
+追剧少女,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
+怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
+套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
+IQIYI频道,#genre#
+爱奇艺-热播电视剧,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+爱奇艺-票房收割机,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+爱奇艺-收视冠军,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+爱奇艺-经典港片,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+爱奇艺-仙侠玄幻,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
+爱奇艺-抗战剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+爱奇艺-红色剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
+爱奇艺-宫廷正剧,http://112.49.48.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
+爱奇艺-家庭剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
+爱奇艺-五星影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+爱奇艺-戏曲影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8
