@@ -50,9 +50,9 @@ CGTN 576,http://[2409:8087:4402:20:1:1216:401:32]/iptv.cdn.ha.chinamobile.com/PL
 广西卫视 576,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
 新疆卫视 576,http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 甘肃卫视 576,http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
-西藏卫视 576,http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8
+西藏卫视 576,http://[2409:8087:4402:20:1:1216:401:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226669/index.m3u8
 陕西卫视 576,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8
-青海卫视 576,http://[2409:8087:4401:20:1:f01:1:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
+青海卫视 576,http://[2409:8087:4402:20:1:1216:401:11]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8
 湖南金鹰卡通 4M1080,http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 湖南金鹰纪实 4M1080,http://[2409:8087:4401:20:1:f01:1:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 SiTV全纪实 4M1080,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
